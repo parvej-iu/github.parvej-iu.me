@@ -1,7 +1,7 @@
 export const userData = {
-  githubUser: 'said7388',
+  githubUser: 'parvej-iu',
   devUsername: "said7388",
-  github: 'https://github.com/said7388',
+  github: 'https://github.com/parvej-iu',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/said7388',
